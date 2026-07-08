@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Wan Yee;Chong;;;
+FN:Chong Wan Yee
+ORG:SC2 Pte Ltd;
+TITLE:Admin Manager
+TEL;type=WORK:6272 9986
+TEL;type=CELL;type=VOICE:9745 1659
+EMAIL;type=INTERNET:wanyee@sc2.com.sg
+item1.ADR;type=HOME:;;Construction Hub\, 10 Tannery Lane;;;Singapore 347773;
+item2.URL:https://www.sc2.com.sg
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
