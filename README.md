@@ -10,4 +10,4 @@ vcards/
 Replace each .vcf with an updated file using the same filename.
 
 GitHub Pages URL format:
-https://<github-username>.github.io/sc2-vcards/vcards/<filename>.vcf
+[(https://sc2pteltd1993-rgb.github.io/sc2-vcards)]
