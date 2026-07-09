@@ -7,7 +7,7 @@ TITLE:Manager
 TEL;type=WORK:6272 9986
 TEL;type=CELL;type=VOICE:9733 8443
 EMAIL;type=INTERNET:desmond@sc2.com.sg
-item1.ADR;type=HOME:;;Construction Hub\, 10 Tannery Lane;;;Singapore 347773;
+item1.ADR;type=Office:;;Construction Hub\, 10 Tannery Lane;;;Singapore 347773;
 item2.URL:https://www.sc2.com.sg
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
