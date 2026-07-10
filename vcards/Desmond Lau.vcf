@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Len Hong;Desmond Lau
+FN:Desmond Lau Len Hong
+ORG:SC2 Pte Ltd
+TITLE:Manager
+TEL;type=WORK:6272 9986
+TEL;type=CELL;type=VOICE:9733 8443
+EMAIL;type=INTERNET:desmond@sc2.com.sg
+ADR;type=WORK:;;Construction Hub\, 10 Tannery Lane;;;Singapore 347773;
+URL:https://www.sc2.com.sg
+END:VCARD
