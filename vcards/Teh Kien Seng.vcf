@@ -7,7 +7,6 @@ TITLE:Senior Auditor
 TEL;type=WORK:6272 9986
 TEL;type=CELL;type=VOICE:9672 7913
 EMAIL;type=INTERNET:kienseng@sc2.com.sg
-item1.ADR;type=HOME:;;Construction Hub\, 10 Tannery Lane;;;Singapore 347773;
-item2.URL:https://www.sc2.com.sg
-item2.X-ABLabel:_$!<HomePage>!$_
+ADR;type=HOME:;;Construction Hub\, 10 Tannery Lane;;;Singapore 347773;
+URL:https://www.sc2.com.sg
 END:VCARD
