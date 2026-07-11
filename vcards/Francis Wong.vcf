@@ -9,4 +9,6 @@ TEL;type=CELL;type=VOICE:9818 8229
 EMAIL;type=INTERNET:francis@sc2.com.sg
 ADR;type=HOME:;;Construction Hub\, 10 Tannery Lane;;;Singapore 347773;
 URL:https://www.sc2.com.sg
+item1.URL:https://wa.me/6598188229
+item1.X-ABLabel:WhatsApp
 END:VCARD
