@@ -9,6 +9,5 @@ TEL;type=CELL;type=VOICE:9644 6478
 EMAIL;type=INTERNET:aileen@sc2.com.sg
 ADR;type=HOME:;;Construction Hub\, 10 Tannery Lane;;;Singapore 347773;
 URL:https://www.sc2.com.sg
-item1.URL:https://wa.me/6596446478
-item1.X-ABLabel:WhatsApp
+IMPP:https://wa.me/6596446478
 END:VCARD
