@@ -9,6 +9,5 @@ TEL;type=CELL;type=VOICE:9790 0839
 EMAIL;type=INTERNET:loh_yl@sc2.com.sg
 ADR;type=HOME:;;Construction Hub\, 10 Tannery Lane;;;Singapore 347773;
 URL:https://www.sc2.com.sg
-item1.URL:https://wa.me/6597900839
-item1.X-ABLabel:WhatsApp
+IMPP:https://wa.me/6597900839
 END:VCARD
