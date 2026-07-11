@@ -7,7 +7,8 @@ TITLE:Senior Auditor
 TEL;type=WORK:6272 9986
 TEL;type=CELL;type=VOICE:9456 3200
 EMAIL;type=INTERNET:chektang@sc2.com.sg
-item1.ADR;type=HOME:;;Construction Hub\, 10 Tannery Lane;;;Singapore 347773;
-item2.URL:https://www.sc2.com.sg
-item2.X-ABLabel:_$!<HomePage>!$_
+ADR;type=HOME:;;Construction Hub\, 10 Tannery Lane;;;Singapore 347773;
+URL:https://www.sc2.com.sg
+item1.URL:https://wa.me/6594563200
+item1.X-ABLabel:WhatsApp
 END:VCARD
