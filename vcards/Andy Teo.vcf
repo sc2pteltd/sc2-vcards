@@ -9,6 +9,5 @@ TEL;type=CELL;type=VOICE:9758 0804
 EMAIL;type=INTERNET:andy@sc2.com.sg
 ADR;type=HOME:;;Construction Hub\, 10 Tannery Lane;;;Singapore 347773;
 URL:https://www.sc2.com.sg
-item1.URL:https://wa.me/6597580804
-item1.X-ABLabel:WhatsApp
+IMPP:https://wa.me/6597580804
 END:VCARD
