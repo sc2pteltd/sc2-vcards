@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Huat Poh;Lau;;;
+FN:Lau Huat Poh
+ORG:SC2 Pte Ltd;
+TITLE:Principal Auditor
+TEL;type=WORK:6272 9986
+TEL;type=CELL;type=VOICE:9670 4279
+EMAIL;type=INTERNET:huat_poh@sc2.com.sg
+ADR;type=HOME:;;Construction Hub\, 10 Tannery Lane;;;Singapore 347773;
+URL:https://www.sc2.com.sg
+item1.URL:https://wa.me/6596704279
+item1.X-ABLabel:WhatsApp
+END:VCARD
